@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "KPI_Project.Controllers.BooksController",
+    "Method": "AddBook",
+    "RelativePath": "api/Books/AddBook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bwm",
+        "Type": "KPI_Project.ViewModels.BooksViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KPI_Project.Controllers.BooksController",
+    "Method": "DeleteBook",
+    "RelativePath": "api/Books/DeleteBook",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KPI_Project.Controllers.BooksController",
+    "Method": "GetAllBooksAsync",
+    "RelativePath": "api/Books/GetAllBooks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KPI_Project.Controllers.BooksController",
+    "Method": "GetBookByIdAsync",
+    "RelativePath": "api/Books/GetBookById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KPI_Project.Controllers.BooksController",
+    "Method": "UpdateBook",
+    "RelativePath": "api/Books/UpdateBook",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "bvm",
+        "Type": "KPI_Project.ViewModels.BooksViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

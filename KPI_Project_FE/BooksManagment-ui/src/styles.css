@@ -1,0 +1,125 @@
+/*:root {
+  --app-primary-color: #00698f;
+  --app-secondary-color: #c1c1c1;
+  --app-bg-color: #adabab;
+  --app-text-color: #131218;
+  --app-border-radius: 8px;
+  --app-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --app-font-size-base: 16px;
+  --app-spacing: 1rem;
+} */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--app-font-family);
+  font-size: var(--app-font-size-base);
+  /* background-color: #ffffff5b; */
+  line-height: 4.5;
+}
+
+a {
+  color: var(--app-primary-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  /* color: var(--app-primary-color); */
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  background-color: #00506b;
+}
+
+p {
+  /* color: var(--app-secondary-color); */
+  margin-bottom: 1rem;
+}
+
+button {
+  background-color: var(--app-primary-color);
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: var(--app-border-radius);
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #00506b; /* Darker shade of primary */
+}
+
+/* .card {
+  background: white;
+  border-radius: var(--app-border-radius);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: var(--app-spacing);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: box-shadow 0.3s ease;
+  height: 100%;
+} */
+
+/* .card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.card-subtitle {
+  color: var(--app-secondary-color);
+  margin-bottom: 1rem;
+}
+
+.card-text {
+  flex-grow: 1;
+  color: var(--app-secondary-color);
+}
+
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: var(--app-spacing);
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: var(--app-border-radius);
+  font-size: 1rem;
+  margin-bottom: var(--app-spacing);
+  box-sizing: border-box;
+}
+
+input:focus, select:focus, textarea:focus {
+  outline: none;
+  border-color: var(--app-primary-color);
+  box-shadow: 0 0 5px var(--app-primary-color);
+} */
+
+/* .navbar {
+  background-color: var(--app-primary-color);
+}
+
+.navbar-brand, .nav-link {
+  color: white !important;
+}
+
+.nav-link.active {
+  font-weight: 700;
+  text-decoration: underline;
+}*/
+

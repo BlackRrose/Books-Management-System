@@ -1,0 +1,54 @@
+<div>
+  <h1 class="mb-4">Update Book Details</h1>
+</div>
+
+<div class="container mt-4">
+  <div class="card shadow-sm rounded-3">
+    <div class="card-body">
+
+      <form [formGroup]="bookForm" class="form-horizonal" (ngSubmit)="onSubmit()">
+        <div class="mb-3">
+          <label for="title" class="form-label fs-3">Book Title</label>
+          <input type="text" class="form-control" id="title" placeholder="Enter book title" [required]="true" formControlName="title">
+        </div>
+
+        <div class="mb-3">
+          <label for="author" class="form-label fs-3">Author</label>
+          <input type="text" class="form-control" id="author" placeholder="Enter author's name" [required]="true" formControlName="author">
+        </div>
+
+        <div class="mb-3">
+          <label for="description" class="form-label fs-3">ISBN</label>
+          <input type="text" class="form-control" id="isbn" [required]="true" (focus)="showIsbnHint = true"  (blur)="showIsbnHint = false" formControlName="isbn">
+          <small class="form-text text-secondary fst-italic" *ngIf="showIsbnHint">
+            Enter a 10 or 13 digit ISBN, without dashes.
+          </small>
+        </div>
+        <br/>
+        <div class="mb-3">
+          <label for="description" class="form-label fs-3">Description</label>
+          <textarea class="form-control" id="description" rows="3" placeholder="Enter a short description" style="width: 101%;" [required]="true" formControlName="description"></textarea>
+        </div>
+
+        <div class="mb-3">
+          <label for="publishedDate" class="form-label fs-4">Published Date</label>
+          <input type="date" class="form-control" id="publishedDate" formControlName="publishedDate">
+        </div>
+
+        <div class="mb-3">
+          <label for="price" class="form-label fs-4">Price</label>
+          <input type="number" class="form-control" id="price" min="0" [required]="true" formControlName="price">
+        </div>
+
+        <div class="d-flex justify-content-start mt-4">
+            <button type="submit" [disabled]="!bookForm.valid" class="btn btn-primary me-2">
+                <i class="bi bi-check-circle me-1"></i> Update
+            </button>
+            <button type="button" class="btn btn-outline-secondary ms-2" (click)="onCancel()">
+                <i class="bi bi-arrow-left me-1"></i> Cancel
+            </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|c:\\projects\\kpi_project_folder\\kpi_project\\kpi_project\\models\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|solutionrelative:kpi_project\\models\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|c:\\projects\\kpi_project_folder\\kpi_project\\kpi_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|solutionrelative:kpi_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|c:\\projects\\kpi_project_folder\\kpi_project\\kpi_project\\kpi_project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|solutionrelative:kpi_project\\kpi_project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|c:\\projects\\kpi_project_folder\\kpi_project\\kpi_project\\kpi_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|solutionrelative:kpi_project\\kpi_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|c:\\projects\\kpi_project_folder\\kpi_project\\kpi_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|solutionrelative:kpi_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|c:\\projects\\kpi_project_folder\\kpi_project\\kpi_project\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|solutionrelative:kpi_project\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|c:\\projects\\kpi_project_folder\\kpi_project\\kpi_project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|solutionrelative:kpi_project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|c:\\projects\\kpi_project_folder\\kpi_project\\kpi_project\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|solutionrelative:kpi_project\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|c:\\projects\\kpi_project_folder\\kpi_project\\kpi_project\\models\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|solutionrelative:kpi_project\\models\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|c:\\projects\\kpi_project_folder\\kpi_project\\kpi_project\\viewmodels\\booksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|solutionrelative:kpi_project\\viewmodels\\booksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|c:\\projects\\kpi_project_folder\\kpi_project\\kpi_project\\migrations\\20250511171450_changetodatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78467257-BD1C-447A-91C6-4B5D0291E176}|KPI_Project\\KPI_Project.csproj|solutionrelative:kpi_project\\migrations\\20250511171450_changetodatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2962,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "KPI_Project\\appsettings.json",
+              "ToolTip": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\appsettings.json",
+              "RelativeToolTip": "KPI_Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T20:27:05.447Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\Program.cs",
+              "RelativeDocumentMoniker": "KPI_Project\\Program.cs",
+              "ToolTip": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\Program.cs",
+              "RelativeToolTip": "KPI_Project\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T20:27:38.443Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "KPI_Project\\Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "KPI_Project\\Models\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:19:15.578Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KPI_Project\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KPI_Project\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T20:25:43.848Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\Models\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "KPI_Project\\Models\\BooksRepository.cs",
+              "ToolTip": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\Models\\BooksRepository.cs",
+              "RelativeToolTip": "KPI_Project\\Models\\BooksRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T13:20:23.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BooksViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\ViewModels\\BooksViewModel.cs",
+              "RelativeDocumentMoniker": "KPI_Project\\ViewModels\\BooksViewModel.cs",
+              "ToolTip": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\ViewModels\\BooksViewModel.cs",
+              "RelativeToolTip": "KPI_Project\\ViewModels\\BooksViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:59:49.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "KPI_Project\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "KPI_Project\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAG4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:43:39.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250511171450_changeToDateTime.cs",
+              "DocumentMoniker": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\Migrations\\20250511171450_changeToDateTime.cs",
+              "RelativeDocumentMoniker": "KPI_Project\\Migrations\\20250511171450_changeToDateTime.cs",
+              "ToolTip": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\Migrations\\20250511171450_changeToDateTime.cs",
+              "RelativeToolTip": "KPI_Project\\Migrations\\20250511171450_changeToDateTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:14:50.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBooksRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\Models\\IBooksRepository.cs",
+              "RelativeDocumentMoniker": "KPI_Project\\Models\\IBooksRepository.cs",
+              "ToolTip": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\Models\\IBooksRepository.cs",
+              "RelativeToolTip": "KPI_Project\\Models\\IBooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:59:42.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KPI_Project.http",
+              "DocumentMoniker": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\KPI_Project.http",
+              "RelativeDocumentMoniker": "KPI_Project\\KPI_Project.http",
+              "ToolTip": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\KPI_Project.http",
+              "RelativeToolTip": "KPI_Project\\KPI_Project.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-02T20:33:13.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KPI_Project.csproj",
+              "DocumentMoniker": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\KPI_Project.csproj",
+              "RelativeDocumentMoniker": "KPI_Project\\KPI_Project.csproj",
+              "ToolTip": "C:\\Projects\\KPI_Project_Folder\\KPI_Project\\KPI_Project\\KPI_Project.csproj",
+              "RelativeToolTip": "KPI_Project\\KPI_Project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-02T20:25:22.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

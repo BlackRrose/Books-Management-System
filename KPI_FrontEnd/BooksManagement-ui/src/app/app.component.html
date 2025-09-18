@@ -1,0 +1,17 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" routerLink="/" routerLinkActive="active" style="cursor: pointer;" >FutureReadz</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link active" [routerLink]="['/']" routerLinkActive="active" style="cursor: pointer;" >Home <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link" routerLink="/books/add" routerLinkActive="active" style="cursor: pointer;" >Add Book</a>
+      <a class="nav-item nav-link"  >AI Suggested</a>
+      <a class="nav-item nav-link disabled"  >About us</a>
+    </div>
+  </div>
+</nav>
+
+<!-- <app-book-list></app-book-list> -->
+<router-outlet />
